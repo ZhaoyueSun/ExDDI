@@ -1,0 +1,3 @@
+[
+    {"role": "user", "content": "Drug1: <DRUG1_SMILES> Drug2: <DRUG2_SMILES> Output:"}
+]

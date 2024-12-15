@@ -1,0 +1,3 @@
+[
+    {"role": "user", "content": "Analyze whether there exists a drug-drug interaction between the query molecules, and explain the reasons. Several examples have been given for reference, and you should consider the similarity of the molecular structures between the given examples and the query molecules. First, answer Yes/No, and then explain the reasons."}
+]
