@@ -1,3 +1,8 @@
+# Updates
+
+Full Data: [Google Drive](https://drive.google.com/drive/folders/1o2UgoPvMw6hunoewChw0ErumxXWJ4aTX?usp=sharing)
+
+____________________________________________________________________________________
 # Data
 
 The data are available in the 'dataset' folder. Due to file size limitations, only the drug indexes for each fold and a small sample of data are provided to ensure reproducibility. The full dataset and model weights will be released on GitHub at a later time.
